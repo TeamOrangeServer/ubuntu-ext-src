@@ -1,3 +1,6 @@
 [submodule "Gyazo-for-Linux"]
 	path = Gyazo-for-Linux
 	url = git@github.com:gyazo/Gyazo-for-Linux.git
+[submodule "GyazoGIF-for-Linux"]
+	path = GyazoGIF-for-Linux
+	url = git@github.com:mpsijm/gyazo-gif-for-linux.git
