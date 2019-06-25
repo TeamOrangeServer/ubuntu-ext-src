@@ -1,0 +1,14 @@
+mecab-ipadic-neologd:
+See mecab-ipadic-neologd/COPYING
+
+zip code data:
+Public domain
+http://www.post.japanpost.jp/zipcode/dl/readme.html
+
+fcitx-mozc:
+The 3-Clause BSD License
+https://github.com/fcitx/mozc/blob/fcitx/src/unix/fcitx/fcitx_mozc.cc
+
+Others:
+Apache License Version 2.0, January 2004
+http://www.apache.org/licenses/LICENSE-2.0.txt
